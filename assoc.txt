@@ -1,0 +1,1290 @@
+$accur
+ unravel     rais   rememb      gas    price     scam      big     also 
+    1.00     0.99     0.99     0.98     0.97     0.96     0.95     0.61 
+rsprasad   kejriw 
+    0.61     0.53 
+
+$address
+  parliament gauravpandhi         time        elect        prime 
+        0.66         0.64         0.64         0.60         0.59 
+     concert 
+        0.57 
+
+$after
+                  bankrupt                     spread 
+                      0.65                       0.61 
+surgicalstrikeonblackmoney                      proof 
+                      0.61                       0.60 
+                 terrorist                    hashtag 
+                      0.59                       0.58 
+                     moron                       came 
+                      0.58                       0.57 
+            pmsavedkashmir                   reaction 
+                      0.56                       0.55 
+                     these                  sirjadeja 
+                      0.55                       0.52 
+                     becom 
+                      0.50 
+
+$also
+ rsprasad    kejriw armstrong      indu      moon      neil    perhap 
+     0.95      0.83      0.73      0.73      0.73      0.73      0.72 
+     sent      help       may    arvind      hide     accur   unravel 
+     0.72      0.70      0.69      0.66      0.65      0.61      0.61 
+     rais    rememb       gas     price      scam       big      this 
+     0.60      0.60      0.59      0.59      0.58      0.57      0.52 
+
+$appear
+      light motherfucka     sychlop      mitron     surpris        wait 
+       0.89        0.81        0.81        0.77        0.73        0.65 
+      crowd       stage         atm 
+       0.61        0.59        0.51 
+
+$are
+   them     men realiti   expos   never   women    that    with 
+   0.72    0.70    0.66    0.64    0.62    0.59    0.56    0.52 
+
+$armstrong
+    indu     moon     neil     sent   perhap     help      may   arvind 
+    1.00     1.00     1.00     0.99     0.98     0.96     0.94     0.91 
+    hide     also rsprasad     this    black   kejriw    money 
+    0.90     0.73     0.73     0.73     0.71     0.64     0.61 
+
+$arvind
+armstrong      indu       may      moon      neil      sent    perhap 
+     0.91      0.91      0.91      0.91      0.91      0.90      0.89 
+     help      hide    kejriw      this      also  rsprasad     black 
+     0.88      0.81      0.69      0.69      0.66      0.66      0.63 
+    money 
+     0.54 
+
+$arvindkejriw
+ vijay demoni mallya  happi    see   even    one 
+  0.74   0.72   0.71   0.68   0.68   0.66   0.59 
+
+$ask
+      reuslt         some vishaloffici          him        speak 
+        0.73         0.73         0.73         0.72         0.70 
+         let         well        bring        chang      currenc 
+        0.66         0.66         0.62         0.62         0.54 
+
+$atm
+motherfucka     sychlop    privileg        latt     surpris       light 
+       0.64        0.64        0.61        0.60        0.58        0.56 
+     outsid        wait      appear 
+       0.53        0.52        0.51 
+
+$attend
+  due quick   ric   die  word 
+ 0.62  0.62  0.62  0.60  0.60 
+
+$back
+ quip tcomh  rupe  sing 
+ 0.71  0.58  0.51  0.50 
+
+$bad
+     mumbaikar vivekagnihotri      implement           long 
+          0.93           0.89           0.84           0.81 
+        govern          stand         suffer          queue 
+          0.74           0.63           0.63           0.62 
+
+$ban
+australia 
+     0.69 
+
+$bank
+privileg     latt   outsid 
+    0.59     0.58     0.52 
+
+$becom
+          bankrupt             spread              proof 
+              0.75               0.71               0.69 
+         terrorist     pmsavedkashmir        masterstrok 
+              0.69               0.65               0.57 
+firingsmasterstrok            against             bullet 
+              0.55               0.54               0.53 
+               win                ani          sirjadeja 
+              0.52               0.51               0.51 
+             after 
+              0.50 
+
+$beinghumor
+               brag           congressi            complain 
+               0.93                0.87                0.85 
+globalcitizenfestiv          understand               crack 
+               0.83                0.68                0.67 
+               joke 
+               0.65 
+
+$bhakt
+numeric(0)
+
+$bharat
+            swachh               join            delight 
+              0.97               0.86               0.85 
+             youth             festiv              power 
+              0.82               0.81               0.81 
+globalcitizenindia               need               talk 
+              0.80               0.73               0.73 
+             music       narendramodi 
+              0.63               0.62 
+
+$big
+   accur  unravel     rais   rememb      gas    price     scam     also 
+    0.95     0.95     0.94     0.94     0.93     0.92     0.91     0.57 
+rsprasad 
+    0.57 
+
+$bjp
+        assur         worri        ground        leader          alwa 
+         0.77          0.75          0.70          0.64          0.55 
+ashutoshpatel          sinc        holder 
+         0.52          0.52          0.50 
+
+$black
+    money armstrong      moon      neil      indu      sent    perhap 
+     0.84      0.71      0.71      0.71      0.70      0.70      0.69 
+     help       may    arvind      hide      this 
+     0.68      0.66      0.63      0.63      0.60 
+
+$blackmoney
+surgicalstrikeonblackmoney                    hashtag 
+                      0.73                       0.69 
+                     moron                       came 
+                      0.69                       0.67 
+                     these                   reaction 
+                      0.66                       0.65 
+                    holder 
+                      0.50 
+
+$brag
+          congressi          beinghumor            complain 
+               0.94                0.93                0.91 
+globalcitizenfestiv          understand               crack 
+               0.89                0.73                0.71 
+               joke 
+               0.70 
+
+$brain
+      kidney        offer     injustic       sushma    swarajnot 
+        0.99         0.99         0.96         0.79         0.65 
+       singl  rajthousand  dineshjoshi        total          not 
+        0.62         0.61         0.60         0.58         0.55 
+     prevail     thousand sushmaswaraj        under 
+        0.52         0.52         0.51         0.50 
+
+$bring
+      reuslt         some vishaloffici          him        speak 
+        0.83         0.83         0.83         0.82         0.79 
+        well          let        chang          ask      currenc 
+        0.76         0.75         0.72         0.62         0.62 
+
+$but
+quick   ric  word   due   die 
+ 0.71  0.71  0.69  0.60  0.57 
+
+$came
+surgicalstrikeonblackmoney                    hashtag 
+                      0.90                       0.86 
+                     moron                      these 
+                      0.86                       0.82 
+                  reaction                 blackmoney 
+                      0.81                       0.67 
+                    holder                      after 
+                      0.63                       0.57 
+                      with 
+                      0.57 
+
+$can
+numeric(0)
+
+$cant
+text fest 
+0.55 0.54 
+
+$chang
+      reuslt          him         some vishaloffici        speak 
+        0.86         0.85         0.85         0.85         0.82 
+        well          let        bring      currenc          ask 
+        0.78         0.77         0.72         0.64         0.62 
+
+$chose
+privileg     latt   outsid     line 
+    0.82     0.81     0.69     0.63 
+
+$citizen
+global 
+  0.72 
+
+$cold
+        play        quick          ric         word gauravpandhi 
+        0.97         0.61         0.60         0.57         0.56 
+         due 
+        0.50 
+
+$coldplay
+numeric(0)
+
+$common
+    them      men privileg     latt  realiti    expos    women 
+    0.62     0.61     0.57     0.56     0.56     0.55     0.51 
+
+$complain
+               brag          beinghumor           congressi 
+               0.91                0.85                0.85 
+globalcitizenfestiv          understand               crack 
+               0.81                0.67                0.65 
+               joke 
+               0.63 
+
+$concert
+gauravpandhi      address 
+        0.63         0.57 
+
+$congress
+numeric(0)
+
+$congressi
+               brag          beinghumor            complain 
+               0.94                0.87                0.85 
+globalcitizenfestiv          understand               crack 
+               0.85                0.70                0.68 
+               joke 
+               0.66 
+
+$corrupt
+numeric(0)
+
+$counter
+   promot   intoler      face     entir shameless    hijack jhasanjay 
+     0.97      0.96      0.84      0.80      0.77      0.67      0.59 
+
+$countri
+numeric(0)
+
+$crack
+               joke                brag           congressi 
+               0.97                0.71                0.68 
+         beinghumor            complain globalcitizenfestiv 
+               0.67                0.65                0.65 
+             miseri            opportun       tcokopgqattwc 
+               0.62                0.61                0.61 
+      jantakareport               death          understand 
+               0.57                0.54                0.53 
+                yet                near 
+               0.52                0.51 
+
+$critic
+fest text 
+0.53 0.52 
+
+$crowd
+     mitron motherfucka     sychlop     surpris       light      appear 
+       0.77        0.76        0.76        0.70        0.68        0.61 
+       wait       stage 
+       0.61        0.56 
+
+$currenc
+      reuslt          him         some vishaloffici        speak 
+        0.75         0.74         0.74         0.74         0.71 
+        well          let        chang        bring          ask 
+        0.68         0.67         0.64         0.62         0.54 
+
+$day
+numeric(0)
+
+$death
+       miseri tcokopgqattwc      opportun jantakareport          near 
+         0.76          0.73          0.72          0.70          0.63 
+          yet         crack          joke 
+         0.63          0.54          0.53 
+
+$decis
+numeric(0)
+
+$delhi
+khoofiyagiri    lakhmonth         serv        capit ggiittiikkaa 
+        0.72         0.72         0.72         0.69         0.66 
+
+$delight
+              join              youth              power 
+              0.99               0.94               0.93 
+            festiv globalcitizenindia             swachh 
+              0.88               0.87               0.87 
+            bharat               talk               need 
+              0.85               0.84               0.79 
+             music       narendramodi 
+              0.68               0.66 
+
+$demonet
+numeric(0)
+
+$demonetis
+numeric(0)
+
+$demoni
+      mallya        vijay        happi          see         even 
+        0.99         0.96         0.95         0.93         0.92 
+         one arvindkejriw      support 
+        0.78         0.72         0.68 
+
+$die
+   due  quick    ric   word attend    but    ppl 
+  0.81   0.80   0.78   0.77   0.60   0.57   0.57 
+
+$due
+ quick    die    ric   word attend    but    ppl   cold 
+  0.83   0.81   0.81   0.80   0.62   0.60   0.58   0.50 
+
+$elect
+     prime     minist    address       time parliament 
+      0.76       0.65       0.60       0.60       0.59 
+
+$emerg
+    yellow    saffron selfpromot      usual      parti        tri 
+      0.96       0.93       0.92       0.91       0.77       0.72 
+    hijack  jhasanjay 
+      0.65       0.57 
+
+$enough
+   insult    heartl      find maqboolsm 
+     0.57      0.54      0.51      0.51 
+
+$entir
+  intoler   counter    promot      face shameless    hijack jhasanjay 
+     0.83      0.80      0.79      0.70      0.68      0.59      0.51 
+
+$even
+      demoni       mallya        vijay        happi          see 
+        0.92         0.91         0.88         0.87         0.85 
+         one arvindkejriw      support 
+        0.71         0.66         0.62 
+
+$event
+            quip          chariti         commerci suitbootkisarkar 
+            0.67             0.66             0.66             0.64 
+         poverti            tcomh 
+            0.57             0.55 
+
+$expos
+   them     men realiti   women    that     are   never    with   media 
+   0.89    0.86    0.81    0.72    0.69    0.64    0.62    0.62    0.56 
+   paid  common    show 
+   0.56    0.55    0.55 
+
+$face
+  intoler   counter    promot     entir shameless    hijack jhasanjay 
+     0.85      0.84      0.83      0.70      0.68      0.59      0.53 
+
+$farmer
+numeric(0)
+
+$festiv
+              join            delight globalcitizenindia 
+              0.89               0.88               0.86 
+             youth              power             swachh 
+              0.85               0.84               0.83 
+            bharat               talk               need 
+              0.81               0.75               0.71 
+      narendramodi              music 
+              0.62               0.60 
+
+$find
+       miseri      opportun tcokopgqattwc        enough 
+         0.54          0.52          0.52          0.51 
+
+$gas
+   accur  unravel    price     rais   rememb     scam      big rsprasad 
+    0.98     0.98     0.97     0.97     0.97     0.94     0.93     0.60 
+    also   kejriw 
+    0.59     0.52 
+
+$gauravpandhi
+address concert     ric    cold    play   quick    word 
+   0.64    0.63    0.57    0.56    0.55    0.55    0.54 
+
+$get
+numeric(0)
+
+$ggiittiikkaa
+khoofiyagiri    lakhmonth         serv        capit        delhi 
+        0.92         0.92         0.92         0.89         0.66 
+        work         paid 
+        0.57         0.53 
+
+$global
+citizen 
+   0.72 
+
+$globalcitizenfestiv
+      brag  congressi beinghumor   complain understand      crack 
+      0.89       0.85       0.83       0.81       0.66       0.65 
+      joke 
+      0.63 
+
+$globalcitizenindia
+        join      delight       festiv        power        youth 
+        0.88         0.87         0.86         0.83         0.83 
+      swachh       bharat         talk         need narendramodi 
+        0.82         0.80         0.74         0.70         0.61 
+       music 
+        0.60 
+
+$good
+  gaand    gayi hardism     lag 
+   0.51    0.51    0.51    0.51 
+
+$govern
+     mumbaikar vivekagnihotri            bad      implement 
+          0.79           0.76           0.74           0.70 
+          long         suffer          stand          queue 
+          0.69           0.54           0.53           0.52 
+
+$govt
+numeric(0)
+
+$happi
+      demoni       mallya        vijay          see         even 
+        0.95         0.94         0.92         0.88         0.87 
+         one arvindkejriw      support 
+        0.73         0.68         0.64 
+
+$heartlesscoldpm
+numeric(0)
+
+$help
+armstrong      indu      moon      neil    perhap      sent       may 
+     0.96      0.96      0.96      0.96      0.95      0.95      0.91 
+   arvind      hide  rsprasad      this      also     black    kejriw 
+     0.88      0.86      0.71      0.71      0.70      0.68      0.62 
+    money 
+     0.59 
+
+$hide
+armstrong      moon      neil      indu      sent    perhap      help 
+     0.90      0.90      0.90      0.89      0.89      0.88      0.86 
+      may    arvind      also  rsprasad      this     black    kejriw 
+     0.84      0.81      0.65      0.65      0.65      0.63      0.56 
+    money 
+     0.54 
+
+$hijack
+ jhasanjay    intoler     yellow    counter     promot    saffron 
+      0.85       0.70       0.68       0.67       0.66       0.66 
+selfpromot      emerg      usual      entir       face  shameless 
+      0.66       0.65       0.65       0.59       0.59       0.57 
+     parti        the        tri 
+      0.54       0.52       0.50 
+
+$him
+      reuslt vishaloffici         some        speak         well 
+        0.99         0.99         0.98         0.95         0.90 
+         let        chang        bring      currenc          ask 
+        0.89         0.85         0.82         0.74         0.72 
+
+$holder
+surgicalstrikeonblackmoney                      assur 
+                      0.68                       0.66 
+                   hashtag                      moron 
+                      0.65                       0.64 
+                      came                      these 
+                      0.63                       0.62 
+                    ground                   reaction 
+                      0.61                       0.61 
+                     worri                        bjp 
+                      0.58                       0.50 
+                blackmoney 
+                      0.50 
+
+$implement
+     mumbaikar vivekagnihotri            bad           long 
+          0.89           0.85           0.84           0.77 
+        govern          stand         suffer          queue 
+          0.70           0.60           0.60           0.59 
+
+$india
+numeric(0)
+
+$indian
+flow 
+0.51 
+
+$indu
+armstrong      moon      neil    perhap      sent      help       may 
+     1.00      1.00      1.00      0.98      0.98      0.96      0.94 
+   arvind      hide  rsprasad      also      this     black    kejriw 
+     0.91      0.89      0.74      0.73      0.73      0.70      0.64 
+    money 
+     0.61 
+
+$injustic
+     kidney       brain       offer      sushma   swarajnot rajthousand 
+       0.97        0.96        0.96        0.76        0.66        0.63 
+dineshjoshi       total       singl     prevail         not       under 
+       0.62        0.61        0.59        0.54        0.52        0.52 
+
+$intoler
+  counter    promot      face     entir shameless    hijack jhasanjay 
+     0.96      0.95      0.85      0.83      0.80      0.70      0.61 
+
+$jhasanjay
+    hijack    intoler     yellow    counter     promot    saffron 
+      0.85       0.61       0.60       0.59       0.58       0.58 
+     emerg selfpromot      usual       face      entir 
+      0.57       0.57       0.57       0.53       0.51 
+
+$join
+           delight              power              youth 
+              0.99               0.94               0.94 
+            festiv globalcitizenindia             swachh 
+              0.89               0.88               0.88 
+            bharat               talk               need 
+              0.86               0.84               0.79 
+             music       narendramodi 
+              0.68               0.66 
+
+$joke
+              crack                brag           congressi 
+               0.97                0.70                0.66 
+         beinghumor            complain globalcitizenfestiv 
+               0.65                0.63                0.63 
+             miseri            opportun       tcokopgqattwc 
+               0.61                0.61                0.60 
+      jantakareport               death          understand 
+               0.56                0.53                0.52 
+                yet 
+               0.50 
+
+$just
+numeric(0)
+
+$kejriw
+     also  rsprasad    arvind       may armstrong      indu      moon 
+     0.83      0.83      0.69      0.66      0.64      0.64      0.64 
+     neil    perhap      sent      help      hide     accur      rais 
+     0.64      0.63      0.63      0.62      0.56      0.53      0.53 
+   rememb   unravel       gas     price      scam 
+     0.53      0.53      0.52      0.52      0.51 
+
+$kidney
+       brain        offer     injustic       sushma    swarajnot 
+        0.99         0.99         0.97         0.80         0.64 
+       singl  rajthousand  dineshjoshi        total          not 
+        0.63         0.61         0.60         0.59         0.56 
+    thousand      prevail sushmaswaraj 
+        0.54         0.52         0.51 
+
+$kill
+   blood civilian 
+     0.5      0.5 
+
+$leader
+ worri  assur    bjp ground   sinc 
+  0.72   0.67   0.64   0.61   0.54 
+
+$let
+      reuslt         some vishaloffici          him        speak 
+        0.90         0.90         0.90         0.89         0.86 
+        well        chang        bring      currenc          ask 
+        0.82         0.77         0.75         0.67         0.66 
+
+$life
+creativ    whos     aim   there  odisha    onli     who    step    take 
+   0.87    0.87    0.86    0.85    0.83    0.78    0.70    0.60    0.53 
+
+$light
+     appear motherfucka     sychlop      mitron     surpris        wait 
+       0.89        0.88        0.88        0.85        0.80        0.71 
+      crowd       stage         atm 
+       0.68        0.65        0.56 
+
+$like
+numeric(0)
+
+$line
+  outsid privileg     latt    chose 
+    0.86     0.77     0.76     0.63 
+
+$long
+     mumbaikar vivekagnihotri            bad      implement 
+          0.87           0.84           0.81           0.77 
+        govern          queue          stand         suffer 
+          0.69           0.60           0.59           0.59 
+
+$make
+numeric(0)
+
+$mallya
+      demoni        vijay        happi          see         even 
+        0.99         0.96         0.94         0.92         0.91 
+         one arvindkejriw      support 
+        0.77         0.71         0.68 
+
+$man
+numeric(0)
+
+$mani
+numeric(0)
+
+$masterstrok
+      bankrupt         spread          proof      terrorist 
+          0.76           0.72           0.70           0.69 
+pmsavedkashmir          becom 
+          0.66           0.57 
+
+$may
+armstrong      indu      moon      neil      sent    perhap    arvind 
+     0.94      0.94      0.94      0.94      0.93      0.92      0.91 
+     help      hide      also  rsprasad      this     black    kejriw 
+     0.91      0.84      0.69      0.69      0.69      0.66      0.66 
+    money 
+     0.57 
+
+$media
+realiti    them     men   expos    paid   women 
+   0.66    0.63    0.61    0.56    0.54    0.51 
+
+$men
+   them realiti   expos   women    that     are   never    with    paid 
+   0.97    0.88    0.86    0.82    0.75    0.70    0.68    0.68    0.62 
+ common   media    show 
+   0.61    0.61    0.60 
+
+$middl
+      class     wealthi     concern    prioriti       wrong       clear 
+       0.83        0.75        0.73        0.72        0.69        0.62 
+keralawhich       block        oper    transact 
+       0.54        0.52        0.52        0.52 
+
+$minist
+prime elect  time 
+ 0.85  0.65  0.51 
+
+$mitron
+      light      appear       crowd motherfucka     sychlop     surpris 
+       0.85        0.77        0.77        0.77        0.77        0.70 
+       wait       stage 
+       0.62        0.56 
+
+$modi
+numeric(0)
+
+$money
+    black armstrong      indu      moon      neil    perhap      sent 
+     0.84      0.61      0.61      0.61      0.61      0.60      0.60 
+     help       may    arvind      hide      this 
+     0.59      0.57      0.54      0.54      0.51 
+
+$moon
+armstrong      indu      neil      sent    perhap      help       may 
+     1.00      1.00      1.00      0.99      0.98      0.96      0.94 
+   arvind      hide      also  rsprasad      this     black    kejriw 
+     0.91      0.90      0.73      0.73      0.73      0.71      0.64 
+    money 
+     0.61 
+
+$move
+numeric(0)
+
+$music
+           delight               join             swachh 
+              0.68               0.68               0.65 
+             youth              power             bharat 
+              0.65               0.64               0.63 
+            festiv globalcitizenindia               need 
+              0.60               0.60               0.58 
+              talk 
+              0.57 
+
+$narendramodi
+           delight               join             swachh 
+              0.66               0.66               0.63 
+            bharat             festiv              power 
+              0.62               0.62               0.62 
+             youth globalcitizenindia               talk 
+              0.62               0.61               0.55 
+              need 
+              0.53 
+
+$nation
+numeric(0)
+
+$near
+       miseri tcokopgqattwc      opportun jantakareport           yet 
+         0.83          0.80          0.79          0.75          0.69 
+        death         crack 
+         0.63          0.51 
+
+$need
+           delight               join             swachh 
+              0.79               0.79               0.76 
+             power              youth             bharat 
+              0.75               0.75               0.73 
+            festiv globalcitizenindia               talk 
+              0.71               0.70               0.67 
+             music       narendramodi 
+              0.58               0.53 
+
+$neil
+armstrong      indu      moon      sent    perhap      help       may 
+     1.00      1.00      1.00      0.99      0.98      0.96      0.94 
+   arvind      hide      also  rsprasad      this     black    kejriw 
+     0.91      0.90      0.73      0.73      0.73      0.71      0.64 
+    money 
+     0.61 
+
+$never
+realiti    them     men     are   expos   women    that 
+   0.73    0.70    0.68    0.62    0.62    0.57    0.53 
+
+$nmapp
+smritiirani 
+       0.67 
+
+$not
+       offer       kidney        brain sushmaswaraj      prevail 
+        0.59         0.56         0.55         0.54         0.53 
+      swaraj     injustic        hundr     thousand 
+        0.53         0.52         0.51         0.51 
+
+$note
+numeric(0)
+
+$now
+numeric(0)
+
+$offer
+       brain       kidney     injustic       sushma    swarajnot 
+        0.99         0.99         0.96         0.80         0.64 
+       singl  rajthousand  dineshjoshi          not        total 
+        0.63         0.61         0.60         0.59         0.59 
+    thousand      prevail sushmaswaraj 
+        0.54         0.52         0.50 
+
+$one
+      demoni       mallya        vijay        happi          see 
+        0.78         0.77         0.75         0.73         0.72 
+        even arvindkejriw      support 
+        0.71         0.59         0.51 
+
+$opposit
+   insult    heartl maqboolsm 
+     0.62      0.59      0.55 
+
+$outsid
+    line privileg     latt    chose      atm     bank 
+    0.86     0.84     0.83     0.69     0.53     0.52 
+
+$paid
+        them          men khoofiyagiri    lakhmonth      realiti 
+        0.64         0.62         0.58         0.58         0.58 
+        serv        capit        expos        media ggiittiikkaa 
+        0.58         0.56         0.56         0.54         0.53 
+       women 
+        0.52 
+
+$parliament
+   time address   elect   prime 
+   0.67    0.66    0.59    0.58 
+
+$parti
+    yellow    saffron selfpromot      emerg      usual        tri 
+      0.80       0.78       0.78       0.77       0.76       0.60 
+    hijack 
+      0.54 
+
+$peopl
+numeric(0)
+
+$perhap
+armstrong      indu      moon      neil      sent      help       may 
+     0.98      0.98      0.98      0.98      0.97      0.95      0.92 
+   arvind      hide      also  rsprasad      this     black    kejriw 
+     0.89      0.88      0.72      0.72      0.72      0.69      0.63 
+    money 
+     0.60 
+
+$play
+        cold        quick          ric         word gauravpandhi 
+        0.97         0.60         0.59         0.57         0.55 
+
+$pmsavedkashmir
+   bankrupt      spread       proof   terrorist masterstrok       becom 
+       0.87        0.82        0.80        0.79        0.66        0.65 
+      after 
+       0.56 
+
+$politician
+      actress         ramya         visit        mvmeet tcocqxasscdfu 
+         0.77          0.70          0.64          0.57          0.52 
+         tell        villag   harshaperla 
+         0.52          0.52          0.51 
+
+$poor
+   suffer mumbaikar 
+     0.55      0.50 
+
+$power
+              join            delight              youth 
+              0.94               0.93               0.89 
+            festiv globalcitizenindia             swachh 
+              0.84               0.83               0.83 
+            bharat               talk               need 
+              0.81               0.79               0.75 
+             music       narendramodi 
+              0.64               0.62 
+
+$ppl
+quick   ric  word   due   die 
+ 0.68  0.67  0.66  0.58  0.57 
+
+$price
+   accur      gas     rais  unravel   rememb     scam      big rsprasad 
+    0.97     0.97     0.97     0.97     0.96     0.93     0.92     0.60 
+    also   kejriw 
+    0.59     0.52 
+
+$prime
+    minist      elect    address       time parliament 
+      0.85       0.76       0.59       0.59       0.58 
+
+$promot
+  counter   intoler      face     entir shameless    hijack jhasanjay 
+     0.97      0.95      0.83      0.79      0.76      0.66      0.58 
+
+$proof
+      bankrupt         spread      terrorist pmsavedkashmir 
+          0.92           0.88           0.84           0.80 
+   masterstrok          becom          after 
+          0.70           0.69           0.60 
+
+$queue
+     mumbaikar vivekagnihotri            bad          stand 
+          0.66           0.64           0.62           0.62 
+          long      implement         govern 
+          0.60           0.59           0.52 
+
+$quick
+         ric         word          due          die          but 
+        0.98         0.95         0.83         0.80         0.71 
+         ppl       attend         cold         play gauravpandhi 
+        0.68         0.62         0.61         0.60         0.55 
+
+$rais
+   accur  unravel   rememb      gas    price     scam      big rsprasad 
+    0.99     0.99     0.98     0.97     0.97     0.95     0.94     0.61 
+    also   kejriw 
+    0.60     0.53 
+
+$reaction
+surgicalstrikeonblackmoney                    hashtag 
+                      0.88                       0.83 
+                     moron                       came 
+                      0.83                       0.81 
+                     these                 blackmoney 
+                      0.80                       0.65 
+                    holder                      after 
+                      0.61                       0.55 
+                      with 
+                      0.55 
+
+$realiti
+  them    men  expos  women  never   that    are  media   show   with 
+  0.91   0.88   0.81   0.74   0.73   0.70   0.66   0.66   0.65   0.63 
+  paid common 
+  0.58   0.56 
+
+$rememb
+   accur  unravel     rais      gas    price     scam      big     also 
+    0.99     0.99     0.98     0.97     0.96     0.95     0.94     0.60 
+rsprasad   kejriw 
+    0.60     0.53 
+
+$reuslt
+         him         some vishaloffici        speak         well 
+        0.99         0.99         0.99         0.96         0.91 
+         let        chang        bring      currenc          ask 
+        0.90         0.86         0.83         0.75         0.73 
+
+$ric
+       quick         word          due          die          but 
+        0.98         0.94         0.81         0.78         0.71 
+         ppl       attend         cold         play gauravpandhi 
+        0.67         0.62         0.60         0.59         0.57 
+
+$right
+numeric(0)
+
+$rsprasad
+     also    kejriw      indu armstrong      moon      neil    perhap 
+     0.95      0.83      0.74      0.73      0.73      0.73      0.72 
+     sent      help       may    arvind      hide     accur      rais 
+     0.72      0.71      0.69      0.66      0.65      0.61      0.61 
+  unravel       gas     price    rememb      scam       big      this 
+     0.61      0.60      0.60      0.60      0.58      0.57      0.52 
+
+$saffron
+    yellow selfpromot      emerg      usual      parti        tri 
+      0.97       0.94       0.93       0.92       0.78       0.72 
+    hijack  jhasanjay 
+      0.66       0.58 
+
+$sahara
+            doc             hrs   tcobitcmsfzwa modichupkyonhai 
+           0.67            0.65            0.65            0.64 
+         neopac          releas          modiji 
+           0.63            0.61            0.51 
+
+$say
+numeric(0)
+
+$scam
+   accur  unravel     rais   rememb      gas    price      big     also 
+    0.96     0.96     0.95     0.95     0.94     0.93     0.91     0.58 
+rsprasad   kejriw 
+    0.58     0.51 
+
+$see
+      demoni       mallya        vijay        happi         even 
+        0.93         0.92         0.90         0.88         0.85 
+         one arvindkejriw      support 
+        0.72         0.68         0.63 
+
+$selfpromot
+   yellow     usual   saffron     emerg     parti       tri    hijack 
+     0.96      0.95      0.94      0.92      0.78      0.72      0.66 
+jhasanjay 
+     0.57 
+
+$sent
+armstrong      moon      neil      indu    perhap      help       may 
+     0.99      0.99      0.99      0.98      0.97      0.95      0.93 
+   arvind      hide      also  rsprasad      this     black    kejriw 
+     0.90      0.89      0.72      0.72      0.72      0.70      0.63 
+    money 
+     0.60 
+
+$shameless
+intoler counter  promot   entir    face  hijack 
+   0.80    0.77    0.76    0.68    0.68    0.57 
+
+$show
+realiti    that    them     men   expos 
+   0.65    0.64    0.62    0.60    0.55 
+
+$silenc
+            doc             hrs   tcobitcmsfzwa modichupkyonhai 
+           0.69            0.66            0.66            0.65 
+         releas          neopac          modiji 
+           0.62            0.60            0.53 
+
+$sinc
+          assur          ground             doc           worri 
+           0.67            0.61            0.58            0.58 
+            hrs   tcobitcmsfzwa modichupkyonhai          leader 
+           0.56            0.56            0.55            0.54 
+         releas             bjp          neopac 
+           0.54            0.52            0.50 
+
+$sing
+       quip piccoldplay        sala        tujh        back         pic 
+       0.61        0.57        0.52        0.52        0.50        0.50 
+
+$sirjadeja
+ with after becom 
+ 0.58  0.52  0.51 
+
+$some
+      reuslt vishaloffici          him        speak         well 
+        0.99         0.99         0.98         0.95         0.91 
+         let        chang        bring      currenc          ask 
+        0.90         0.85         0.83         0.74         0.73 
+
+$speak
+      reuslt          him         some vishaloffici         well 
+        0.96         0.95         0.95         0.95         0.87 
+         let        chang        bring      currenc          ask 
+        0.86         0.82         0.79         0.71         0.70 
+
+$speech
+      fest       text       full       dont tcoyhngxrg 
+      0.63       0.62       0.58       0.54       0.54 
+
+$spread
+      bankrupt          proof      terrorist pmsavedkashmir 
+          0.95           0.88           0.87           0.82 
+   masterstrok          becom          after 
+          0.72           0.71           0.61 
+
+$stage
+    motherfucka         sychlop         surpris           light 
+           0.73            0.73            0.67            0.65 
+         appear            wait          akhtar           crowd 
+           0.59            0.59            0.56            0.56 
+         farhan          mitron rohitbanawlikar 
+           0.56            0.56            0.56 
+
+$stand
+     mumbaikar vivekagnihotri            bad          queue 
+          0.68           0.65           0.63           0.62 
+     implement           long         govern 
+          0.60           0.59           0.53 
+
+$step
+creativ    whos     aim   there  odisha    life    onli     who 
+   0.67    0.67    0.66    0.65    0.63    0.60    0.60    0.53 
+
+$suffer
+     mumbaikar vivekagnihotri            bad      implement 
+          0.68           0.65           0.63           0.60 
+          long           poor         govern 
+          0.59           0.55           0.54 
+
+$support
+demoni mallya  vijay  happi    see   even    one 
+  0.68   0.68   0.65   0.64   0.63   0.62   0.51 
+
+$surpris
+motherfucka     sychlop       light      appear        wait       crowd 
+       0.91        0.91        0.80        0.73        0.73        0.70 
+     mitron       stage         atm 
+       0.70        0.67        0.58 
+
+$sushma
+     kidney       offer       brain       singl    injustic rajthousand 
+       0.80        0.80        0.79        0.79        0.76        0.76 
+dineshjoshi   swarajnot       total       under      swaraj    thousand 
+       0.75        0.75        0.74        0.62        0.55        0.51 
+
+$swachh
+            bharat               join            delight 
+              0.97               0.88               0.87 
+            festiv              power              youth 
+              0.83               0.83               0.83 
+globalcitizenindia               need               talk 
+              0.82               0.76               0.75 
+             music       narendramodi 
+              0.65               0.63 
+
+$take
+creativ    whos     aim   there  odisha    life    onli 
+   0.61    0.61    0.60    0.60    0.58    0.53    0.53 
+
+$talk
+           delight               join              youth 
+              0.84               0.84               0.80 
+             power             festiv             swachh 
+              0.79               0.75               0.75 
+globalcitizenindia             bharat               need 
+              0.74               0.73               0.67 
+             music       narendramodi 
+              0.57               0.55 
+
+$terrorist
+      bankrupt         spread          proof pmsavedkashmir 
+          0.91           0.87           0.84           0.79 
+         becom    masterstrok          after 
+          0.69           0.69           0.59 
+
+$that
+   them     men realiti   expos    show   women     are   never    with 
+   0.77    0.75    0.70    0.69    0.64    0.63    0.56    0.53    0.53 
+
+$the
+hijack 
+  0.52 
+
+$them
+    men realiti   expos   women    that     are   never    with    paid 
+   0.97    0.91    0.89    0.82    0.77    0.72    0.70    0.70    0.64 
+  media  common    show 
+   0.63    0.62    0.62 
+
+$there
+creativ    whos     aim  odisha    onli    life     who    step    take 
+   0.98    0.98    0.97    0.93    0.87    0.85    0.78    0.65    0.60 
+
+$these
+surgicalstrikeonblackmoney                    hashtag 
+                      0.89                       0.84 
+                     moron                       came 
+                      0.84                       0.82 
+                  reaction                 blackmoney 
+                      0.80                       0.66 
+                    holder                      after 
+                      0.62                       0.55 
+                      with 
+                      0.55 
+
+$think
+numeric(0)
+
+$this
+armstrong      indu      moon      neil    perhap      sent      help 
+     0.73      0.73      0.73      0.73      0.72      0.72      0.71 
+   arvind       may      hide     black      also  rsprasad     money 
+     0.69      0.69      0.65      0.60      0.52      0.52      0.51 
+
+$time
+parliament    address      elect      prime     minist 
+      0.67       0.64       0.60       0.59       0.51 
+
+$tri
+    yellow      emerg    saffron selfpromot      usual      parti 
+      0.74       0.72       0.72       0.72       0.70       0.60 
+    hijack 
+      0.50 
+
+$turn
+         chariti         commerci suitbootkisarkar           mvmeet 
+            0.69             0.69             0.67             0.63 
+         poverti             tell           villag        inconveni 
+            0.60             0.57             0.57             0.52 
+
+$understand
+               brag           congressi          beinghumor 
+               0.73                0.70                0.68 
+           complain globalcitizenfestiv               crack 
+               0.67                0.66                0.53 
+               joke 
+               0.52 
+
+$unravel
+   accur     rais   rememb      gas    price     scam      big     also 
+    1.00     0.99     0.99     0.98     0.97     0.96     0.95     0.61 
+rsprasad   kejriw 
+    0.61     0.53 
+
+$usual
+selfpromot     yellow    saffron      emerg      parti        tri 
+      0.95       0.95       0.92       0.91       0.76       0.70 
+    hijack  jhasanjay 
+      0.65       0.57 
+
+$video
+playlist   youtub 
+    0.55     0.54 
+
+$vijay
+      demoni       mallya        happi          see         even 
+        0.96         0.96         0.92         0.90         0.88 
+         one arvindkejriw      support 
+        0.75         0.74         0.65 
+
+$vishaloffici
+    him  reuslt    some   speak    well     let   chang   bring currenc 
+   0.99    0.99    0.99    0.95    0.91    0.90    0.85    0.83    0.74 
+    ask 
+   0.73 
+
+$visit
+      actress         ramya    politician        mvmeet tcocqxasscdfu 
+         0.82          0.75          0.64          0.61          0.55 
+         tell        villag   harshaperla        mandya     inconveni 
+         0.55          0.55          0.54          0.53          0.51 
+      respons 
+         0.50 
+
+$wait
+motherfucka     sychlop     surpris       light      appear      mitron 
+       0.81        0.81        0.73        0.71        0.65        0.62 
+      crowd       stage         atm 
+       0.61        0.59        0.52 
+
+$want
+ quip tcomh  rupe 
+ 0.69  0.56  0.50 
+
+$war
+firingsmasterstrok            against             bullet 
+              0.63               0.62               0.60 
+               win                ani            without 
+              0.59               0.58               0.54 
+            terror 
+              0.53 
+
+$welcom
+northeastern        state  tcogagoefon 
+        0.86         0.81         0.57 
+
+$well
+      reuslt         some vishaloffici          him        speak 
+        0.91         0.91         0.91         0.90         0.87 
+         let        chang        bring      currenc          ask 
+        0.82         0.78         0.76         0.68         0.66 
+
+$whi
+            doc             hrs   tcobitcmsfzwa modichupkyonhai 
+           0.54            0.52            0.52            0.51 
+
+$who
+creativ    whos     aim   there  odisha    life    onli    step 
+   0.80    0.80    0.79    0.78    0.76    0.70    0.70    0.53 
+
+$will
+numeric(0)
+
+$with
+                      them                        men 
+                      0.70                       0.68 
+                   realiti                      expos 
+                      0.63                       0.62 
+surgicalstrikeonblackmoney                    hashtag 
+                      0.61                       0.58 
+                     moron                  sirjadeja 
+                      0.58                       0.58 
+                      came                      women 
+                      0.57                       0.57 
+                  reaction                      these 
+                      0.55                       0.55 
+                      that                        are 
+                      0.53                       0.52 
+
+$women
+    men    them realiti   expos    that     are   never    with    paid 
+   0.82    0.82    0.74    0.72    0.63    0.59    0.57    0.57    0.52 
+ common   media 
+   0.51    0.51 
+
+$word
+       quick          ric          due          die          but 
+        0.95         0.94         0.80         0.77         0.69 
+         ppl       attend         cold         play gauravpandhi 
+        0.66         0.60         0.57         0.57         0.54 
+
+$work
+khoofiyagiri    lakhmonth         serv        capit ggiittiikkaa 
+        0.62         0.62         0.62         0.60         0.57 
+
+$worri
+        assur        ground           bjp        leader          alwa 
+         0.87          0.80          0.75          0.72          0.62 
+ashutoshpatel        holder          sinc 
+         0.59          0.58          0.58 
+
+$yellow
+   saffron      emerg selfpromot      usual      parti        tri 
+      0.97       0.96       0.96       0.95       0.80       0.74 
+    hijack  jhasanjay 
+      0.68       0.60 
+
+$yet
+       miseri      opportun tcokopgqattwc jantakareport          near 
+         0.84          0.80          0.80          0.75          0.69 
+        death         crack          joke 
+         0.63          0.52          0.50 
+
+$you
+khoofiyagiri    lakhmonth         serv        capit 
+        0.52         0.52         0.52         0.51 
+
+$youth
+           delight               join              power 
+              0.94               0.94               0.89 
+            festiv globalcitizenindia             swachh 
+              0.85               0.83               0.83 
+            bharat               talk               need 
+              0.82               0.80               0.75 
+             music       narendramodi 
+              0.65               0.62 
+
