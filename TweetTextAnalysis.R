@@ -4,8 +4,9 @@ library(cluster)
 library(twitteR)
 library(SnowballC)
 
-#enter api_key,apisecret, acces token and access secret in order.
-setup_twitter_oauth("fUn007J6pP6z23eTI1To5cg7S","5CfT128TEAnCS9e7Y6e0JKp8Pbl1iDtdqzqfslTjHrq44SxQLs","3172067551-W4DOzJAEsjpyYsQbI0M1n9W2vaZYbh9M2577fS7","HKBGmb8vvirivCvrT83XRTGfZTpxabe2l0Wo4ysoEXl3W")
+#enter api_key,apisecret, access token and access secret in order.
+#get the above mentioned keys & tokens from your twitter app. Link:  https://apps.twitter.com/
+setup_twitter_oauth(<your_api_key>,<your_api_secret>,<your_access_token>,<your_access_secret>)
 
 tweets<-searchTwitter("modi",n=5000,lang="en")
 mytweets<-sapply(tweets,function(x) x$getText())
